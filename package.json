@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "dynamic",
+    "programming"
+  ],
+  "author": "Jimmy Gong",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
