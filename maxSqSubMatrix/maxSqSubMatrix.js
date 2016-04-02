@@ -1,5 +1,6 @@
 /**
- * Determine the size of the largest square submatrix in given matrix
+ * Given a matrix of dimensions mxn having all entries as 1 or 0,
+ * find out the size of maximum size square sub-matrix with all 1s
  */
 function maxSqSubMatrix(matrix) {
   var copy = [];
